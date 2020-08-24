@@ -4,7 +4,20 @@
 
 `EXAMPLE`
 
-**Technology selection**
+**Technology Selection**
+
+For this example, two sets of technologies have been selected that accommodate the need to exchange
+the FF-ICE/R1 messages:
+
+-   **SOAP Web Service technologies** allow to exchange request and
+    reply messages where the initiative is taken by the service
+    consumer.[10]
+
+-   **AMQP** supports the exchange of notification messages where the
+    initiative is taken by the service provider.
+
+Appendix XXX Section YYY provides detailed rational for the technology
+selection.
 
 
 **Description**
