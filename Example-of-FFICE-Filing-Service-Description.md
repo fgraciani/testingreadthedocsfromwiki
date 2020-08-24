@@ -1,5 +1,8 @@
 `FF-ICE GUIDANCE`
 
+This page provides **informative** examples of
+service descriptions to realize the FF-ICE/R1 Filing Service.
+
 ***
 
 `EXAMPLE`
