@@ -1,3 +1,5 @@
+`GENERAL GUIDANCE` 
+
 `FIXM TYPE` [fb:GeographicalPositionType](https://www.fixm.aero/releases/FIXM-4.2.0/doc/schema_documentation/Fixm_GeographicalPositionType.html#Link14)
 
 <img src="./media/GeographicalPositionType.png">
