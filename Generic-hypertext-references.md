@@ -1,3 +1,5 @@
+`GENERAL GUIDANCE`
+
 If an AIXM 5.1 feature exists that corresponds to the element being
 referred to, an **optional** hypertext reference to that AIXM feature
 may be provided. This reference shall be expressed in accordance with
