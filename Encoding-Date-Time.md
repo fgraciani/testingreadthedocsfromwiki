@@ -1,4 +1,6 @@
-`GENERAL GUIDANCE` `FIXM TYPE` [fb:TimeType](https://www.fixm.aero/releases/FIXM-4.2.0/doc/schema_documentation/Fixm_TimeType.html#LinkA6)
+`GENERAL GUIDANCE`
+
+`FIXM TYPE` [fb:TimeType](https://www.fixm.aero/releases/FIXM-4.2.0/doc/schema_documentation/Fixm_TimeType.html#LinkA6)
 
 FIXM requires times to be expressed in UTC.
 
