@@ -131,7 +131,7 @@ found in various sources:
     format](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/cifp/download/).
     For instance:
 
-    -   Localizer only approach on RWY06 at KFOD
+Localizer only approach on RWY06 at KFOD
 
 > SUSAP KFODK3FL06 AFOD 010FOD K3D 0V IF 18000 0 NS 854081209
 >
@@ -161,7 +161,7 @@ found in various sources:
 >
 > SUSAP KFODK3FL06 L 060FOD K3D 0VE R HM 1204T010 + 02800 0 NS 854211209
 
--   GPS approach on RWY29 at KFOT
+GPS approach on RWY29 at KFOT
 
 > SUSAP KFOTK2FP29 ADINSE 010DINSEK2EA0E A IF 18000 P PS 857251211
 >
