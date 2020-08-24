@@ -19,7 +19,7 @@ Direction designator.
 
 ***
 
-**OPTION 2 - Minimum reference with supplementary AIXM pointer
+**OPTION 2 - Minimum reference with supplementary AIXM pointer**
 
 *(OPTION 2 = OPTION 1 + supplementary hypertext reference)*
 
