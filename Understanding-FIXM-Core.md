@@ -1,3 +1,5 @@
+`GENERAL GUIDANCE`
+
 # What is FIXM Core?
 
 **FIXM Core** provides globally harmonized flight data structures that
