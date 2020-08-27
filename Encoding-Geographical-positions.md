@@ -2,9 +2,7 @@
 
 `FIXM TYPE` [fb:GeographicalPositionType](https://www.fixm.aero/releases/FIXM-4.2.0/doc/schema_documentation/Fixm_GeographicalPositionType.html#Link14)
 
-<p>
-<img src="./media/GeographicalPositionType.png">
-</p>
+<img src="https://github.com/hlepori/fixm_test/blob/master//media/GeographicalPositionType.png">
 
 FIXM captures the concept of Geographical Position as defined by ICAO
 Annex 15.
@@ -71,7 +69,7 @@ values have different constraints.
 
 **Examples**
 
-`EXAMPLE` [[https://github.com/hlepori/fixm_test/blob/master/media/ok.png]]
+`EXAMPLE`
 
 <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" style="width:0.25in;height:0.25in" />
 
