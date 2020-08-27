@@ -69,7 +69,7 @@ values have different constraints.
 
 **Examples**
 
-`EXAMPLE` <img src="media/ok.png" width="20" height="20" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fb:position srsName="urn:ogc:def:crs:EPSG::4326">
@@ -80,7 +80,7 @@ values have different constraints.
 In this example, number ‘59.0’ represents the latitude and number
 ‘-30.0’ represents the longitude.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:point4D srsName="urn:ogc:def:crs:EPSG::4326">
@@ -97,14 +97,14 @@ The W3C XML schema 1.0 specification defines three special values for
 float/double: positive infinity, negative infinity and not-a-number. In
 this context, a “pos” element expressed as 
 
-<img src="./media/nok.png" style="width:0.25in;height:0.25in" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/nok.png" width="20" height="20" />
 
 ```xml
 <fb:pos>INF -INF</fb:pos>
 ```
 or 
 
-<img src="./media/nok.png" style="width:0.25in;height:0.25in" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/nok.png" width="20" height="20" />
 
 ```xml
 <fb:pos>NaN NaN</fb:pos>
