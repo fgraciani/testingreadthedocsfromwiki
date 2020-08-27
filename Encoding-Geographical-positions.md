@@ -69,9 +69,7 @@ values have different constraints.
 
 **Examples**
 
-`EXAMPLE`
-
-<img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="media/ok.png" width="20" height="20" />
 
 ```xml
 <fb:position srsName="urn:ogc:def:crs:EPSG::4326">
