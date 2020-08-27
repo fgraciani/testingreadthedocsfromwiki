@@ -4,7 +4,7 @@
 
 <img src="./fixm_test/tree/master/media/media/GeographicalPositionType.png">
 
-![Test](media/GeographicalPositionType.png)
+![Test](/media/GeographicalPositionType.png)
 
 FIXM captures the concept of Geographical Position as defined by ICAO
 Annex 15.
