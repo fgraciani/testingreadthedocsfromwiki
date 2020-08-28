@@ -1,3 +1,5 @@
+# Fixm User Manual
+
 This wiki provides guidance and clarifications for the
 implementation of FIXM.
 
