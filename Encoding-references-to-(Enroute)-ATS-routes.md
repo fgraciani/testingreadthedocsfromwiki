@@ -2,7 +2,7 @@
 
 `FIXM TYPE` [fb:RouteDesignatorType](https://www.fixm.aero/releases/FIXM-4.2.0/doc/schema_documentation/Fixm_RouteDesignatorType.html#Link1A)
 
-<img src="./media/RouteDesignatorType.png">
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/RouteDesignatorType.png">
 
 ***
 
