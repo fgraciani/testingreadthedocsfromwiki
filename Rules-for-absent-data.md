@@ -73,7 +73,7 @@ the mandatory attribute “uom” or “srsName” to be provided, even if
 meaningless. For instance, the following XML data would NOT validate
 against the FIXM Core schema, because the uom for a Mass is missing.
 
-`EXAMPLE` <img src="./media/nok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/nok.png" width="20" height="20" />
 
 ```xml
 <fx:desired>
@@ -103,7 +103,7 @@ When a geographical position is to be declared null:
 
 Example of valid null measure declaration with a fake uom to be ignored:
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:desired>
