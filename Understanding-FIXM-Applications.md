@@ -10,7 +10,7 @@ essentially provides context-specific **‘message data structures’** and
 FIXM-based messages exchanged using SWIM information services, as
 outlined in the figure below.
 
-<img src="./media/message_structure_fixm_application_role.png"/>
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/message_structure_fixm_application_role.png"/>
 
 *Figure: General structure of a message and role of an Application Library*
 
@@ -21,7 +21,7 @@ an application library occur.
 
 An **Application Library** may also leverage **Extensions**, as illustrated on the picture below:
 
-<img src="./media/fixm_application_with_extension.png" style="width:1.66806in;height:2.1125in" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/fixm_application_with_extension.png" />
 
 
 An example of an Application Library is the **FF-ICE Application
@@ -49,7 +49,7 @@ Examples of message data structures can be found in the FF-ICE
 Implementation Guidance Manual. The Figure below shows the message data
 structures associated with the FF-ICE Flight Cancellation Message.
 
-<img src="./media/ffice_message_data_example.png" style="width:2.36522in;height:3.62891in" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/ffice_message_data_example.png" />
 
 *Figure 2: Example of Message Data structures from FF-ICE*
 
@@ -123,7 +123,7 @@ but accomplishes the task by directly creating smaller, parallel models
 of the adjusted packages rather than producing them via a restriction.
 The figure below illustrates at high-level the differences.
 
-<img src="./media/xsd_restriction_vs_xsd_profile.png" style="width:5.14179in;height:3.52252in" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/xsd_restriction_vs_xsd_profile.png"/>
 
 *Figure: XSD Restriction vs XSD Profile*
 
