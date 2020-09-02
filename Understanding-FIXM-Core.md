@@ -38,7 +38,7 @@ following:
 `HOW TO CHECK THIS` The content of a message, or relevant part thereof, validates without error against the FIXM Core XML schemas when tested / parsed by XML validation tools.
 
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:aerodrome>
@@ -51,7 +51,7 @@ ICAO location indicator. It complies with the structural rules for
 aerodrome references defined by the FIXM Core XML schemas.
 
 
-`EXAMPLE` <img src="./media/nok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/nok.png" width="20" height="20" />
 
 ```xml
 <fx:aerodrome>
@@ -67,7 +67,7 @@ defined by the FIXM XML schemas and does not qualify as valid FIXM
 usage.
 
 
-`EXAMPLE` <img src="./media/nok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/nok.png" width="20" height="20" />
 
 The example below features a valid XML schema that defines a Flight
 Identification structure comprising the departure & arrival aerodrome
@@ -129,7 +129,7 @@ the FIXM Core requirement on data structure.
 `HOW TO CHECK THIS` The content of a message, or the relevant part thereof, validates without error against the applicable business rules addressing data correctness. Chapter 2.4.13 lists business rules addressing data correctness which are always applicable whatever the context of the exchange. Additional business rules addressing data correctness may exist which are specific to particular use-cases.
 
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:verticalRange>
@@ -149,7 +149,7 @@ identified in Chapter 2.4.13. It qualifies as valid FIXM core usage.
 
 
 
-`EXAMPLE` <img src="./media/nok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/nok.png" width="20" height="20" />
 
 ```xml
 <fx:aircraft>
