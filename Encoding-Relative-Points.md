@@ -2,7 +2,7 @@
 
 `FIXM TYPE` [fb:RelativePointType](https://www.fixm.aero/releases/FIXM-4.2.0/doc/schema_documentation/Fixm_RelativePointType.html#Link18)
 
-<img src="./media/RelativePointType.png">
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/RelativePointType.png">
 
 A relative point is a bearing and distance from a reference navaid.
 Encoding a relative point in FIXM requires the ‘bearing’, ‘distance’ and
