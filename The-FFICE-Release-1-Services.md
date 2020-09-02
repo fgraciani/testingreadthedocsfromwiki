@@ -5,4 +5,4 @@ behaviour (procedures).
 The following diagram illustrates the services identified by FF-ICE/R1
 and the associated messages.
 
-<img src="./media/ffice_services.png"/>
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/ffice_services.png"/>
