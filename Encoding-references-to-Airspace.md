@@ -2,7 +2,7 @@
 
 `FIXM TYPE` [fb:AirspaceDesignatorType](https://www.fixm.aero/releases/FIXM-4.2.0/doc/schema_documentation/Fixm_AirspaceDesignatorType.html#LinkE)
 
-<img src="./media/AirspaceDesignatorType.png">
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/AirspaceDesignatorType.png">
 
 ***
 
