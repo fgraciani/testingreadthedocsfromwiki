@@ -8,7 +8,8 @@ A constraint is placed on class *Base.Types.Time*, the class used to
 represent all date/time values in FIXM, imposes the use of the trailing
 character ‘z’ to indicate UTC, in line with the W3C XSD specification.
 
-`EXAMPLE`
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
+
 20th July 1969 at 20:18UTC is expressed as 1969-07-20T20:18:00.000Z
 
 ***
