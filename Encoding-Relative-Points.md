@@ -16,7 +16,7 @@ order to save consuming systems / services from (re)computing the
 position of the relative point. Whether or not to use this supplementary
 information is at the discretion of the consuming system / service.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 Without position information
 
