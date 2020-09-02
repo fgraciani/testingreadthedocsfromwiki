@@ -15,7 +15,7 @@ designator with a route point (i.e. a significant point belonging to
 that ATS route) in FIXM is considered sufficient for enabling
 unambiguous identification of the ATS Route being referred to.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:routeDesignator>UA4</fx:routeDesignator>
@@ -30,7 +30,7 @@ unambiguous identification of the ATS Route being referred to.
 Option 2 corresponds to Option 1 with an additional hypertext reference
 as described in chapter Generic hypertext references.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:routeDesignator href="urn:uuid:a14a8751-5428-46bc-a2d1-32ef84d37b5c">UA4</fx:routeDesignator>
