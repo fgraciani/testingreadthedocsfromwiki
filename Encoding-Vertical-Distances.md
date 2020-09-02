@@ -48,7 +48,7 @@ persistence of vertical distances values across their software.
 The following examples show valid FIXM encoding of altitudes and flight
 levels expressed as integer.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fb:altitude uom="FT">10000</fb:altitude>
@@ -66,7 +66,7 @@ levels expressed as integer.
 <fb:flightLevel uom="SM">1130</fb:flightLevel>
 ```
 
-`EXAMPLE` <img src="./media/nok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/nok.png" width="20" height="20" />
 
 The following example shows the encoding of a flight level expressed as
 a double. This encoding is technically permitted by FIXM but is NOT
