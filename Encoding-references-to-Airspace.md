@@ -13,7 +13,7 @@ indicator, if provided by ICAO Doc 7910 \[11\]. If the airspace has no
 ICAO Doc 7910 location indicator, the minimum airspace reference shall
 consist of the coded designator of the airspace as published in the AIP.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 CASE 1 – The Airspace has an ICAO Doc 7910 location indicator
 
@@ -36,7 +36,7 @@ CASE 2 – The Airspace has no ICAO Doc. 7910 location indicator
 Option 2 corresponds to Option 1 with an additional hypertext reference
 as described in chapter Generic hypertext references.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 CASE 1 – The Airspace has an ICAO Doc 7910 location indicator
 
