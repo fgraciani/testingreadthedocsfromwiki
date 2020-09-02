@@ -11,11 +11,13 @@ use of FIXM.
 ***
 
 **Using the Wiki**
+
 Use the opposite side bar to search for a topic or to browse the existing wiki pages.
 
 ***
 
 **Improving the Wiki**
+
 Suggested additions, changes and comments on this document
 are welcome and encouraged. These suggestions should be sent to the FIXM
 CCB (<FIXM.CCB@eurocontrol.int>) or posted to the FIXM Work Area.
