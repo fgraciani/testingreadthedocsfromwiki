@@ -2,7 +2,7 @@
 
 `FIXM TYPE` [fb:AtcUnitReferenceType](https://www.fixm.aero/releases/FIXM-4.2.0/doc/schema_documentation/Fixm_AtcUnitReferenceType.html#Link10)
 
-<img src="./media/AtcUnitReferenceType.png">
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/AtcUnitReferenceType.png">
 
 ***
 
