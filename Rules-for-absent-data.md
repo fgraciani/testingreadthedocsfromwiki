@@ -16,7 +16,7 @@ attribute with a value set to “true”. Example:
 </xs:complexType>
 ```
 
-<img src="./media/Double_arrow_symbol_-_blue.png" style="width:0.50in;height:0.70in" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/Double_arrow_symbol_-_blue.png" style="width:0.50in;height:0.70in" />
 
 ```xml
 <fx:Flight> 
