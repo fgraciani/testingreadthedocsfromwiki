@@ -2,7 +2,7 @@
 
 `FIXM TYPE` [fb:RunwayDirectionDesignatorType](https://www.fixm.aero/releases/FIXM-4.2.0/doc/schema_documentation/Fixm_RunwayDirectionDesignatorType.html#Link1C)
 
-<img src="./media/RunwayDirectionDesignatorType.png">
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/RunwayDirectionDesignatorType.png">
 
 ***
 
