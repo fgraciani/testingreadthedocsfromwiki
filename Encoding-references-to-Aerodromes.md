@@ -2,7 +2,7 @@
 
 `FIXM TYPE` [fb:AerodromeReferenceType](https://www.fixm.aero/releases/FIXM-4.2.0/doc/schema_documentation/Fixm_AerodromeReferenceType.html#LinkC)
 
-<img src="./media/AerodromeReferenceType.png">
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/AerodromeReferenceType.png">
 
 ***
 
