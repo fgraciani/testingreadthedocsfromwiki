@@ -47,7 +47,7 @@ extension mechanism.
 `EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/nok.png" width="20" height="20" />
 
 
-<img src="media/wrong_extension_example.png" style="width:4.70091in;height:2.96439in" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/wrong_extension_example.png" />
 
 *Figure: Example of FIXM extension NOT satisfying the requirement on extension content*
 
