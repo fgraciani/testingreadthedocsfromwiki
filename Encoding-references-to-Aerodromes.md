@@ -14,7 +14,7 @@ ICAO Doc 7910 location indicator, the minimum aerodrome reference shall
 consist of the name of the aerodrome and its geographical location,
 namely the aerodrome reference point.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 CASE 1 – The Aerodrome has an ICAO Doc 7910 location indicator
 
@@ -44,7 +44,7 @@ CASE 2 – The Aerodrome has no ICAO Doc. 7910 location indicator
 Option 2 corresponds to Option 1 with an additional hypertext reference
 as described in chapter Generic hypertext references.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 CASE 1 – The Aerodrome has an ICAO Doc 7910 location indicator
 
@@ -72,7 +72,7 @@ CASE 2 – The Aerodrome has no ICAO Doc. 7910 location indicator
 FIXM enables the encoding of richer aerodrome
 “reference” structures, such as
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:destinationAerodrome href="urn:uuid:1b54b2d6-a5ff-4e57-94c2-f4047a381c64">
