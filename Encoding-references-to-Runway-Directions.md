@@ -11,7 +11,7 @@
 The minimum Runway Direction reference shall consist of the Runway
 Direction designator.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:runwayDirection>09L</fx:runwayDirection>
@@ -26,7 +26,7 @@ Direction designator.
 Option 2 corresponds to Option 1 with an additional hypertext reference
 as described in chapter Generic hypertext references.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:runwayDirection href="urn:uuid:c8455a6b-9319-4bb7-b797-08e644342d64">09L</fx:runwayDirection>
