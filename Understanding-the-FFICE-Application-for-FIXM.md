@@ -9,7 +9,7 @@ Manual (ICAO Doc 9965 Volume II).
 
 The content of the FF-ICE Application Library is the following:
 
-<img src="./media/overview_ffice_application.png" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/overview_ffice_application.png" />
 
 *Figure: Overview of the FF-ICE Message Application Library content*
 
@@ -44,7 +44,7 @@ Application Library include:
 The FF-ICE Message data structures are traceable to the FF-ICE
 Implementation Guidance Manual Appendix B. For instance:
 
-<img src="./media/example_ffice_message_data_to_ffice_ig_appB_trace.png" style="width:6.28125in;height:2.09225in" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/example_ffice_message_data_to_ffice_ig_appB_trace.png" />
 
 *Figure: Example of FF-ICE Message data structures tracing to the FF-ICE Implementation Guidance Manual, Appendix B*
 
@@ -57,7 +57,7 @@ similar fashion as for FIXM Core data structures.
 The picture below provides an overview of the FF-ICE Message data
 structures modelled in the FF-ICE Application Library.
 
-<img src="./media/ffice_message_data_structures_overview.png" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/ffice_message_data_structures_overview.png" />
 
 *Figure 9: Overview of the FF-ICE Message Data Structures*
 
@@ -110,14 +110,14 @@ mandatory (highlighted **in bold** in this document) or optional
 
 *Table: Example of the FF-ICE Flight Cancellation Message*
 
-<img src="./media/example_ffice_flight_cancellation_message.png" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/example_ffice_flight_cancellation_message.png" />
 
 The FF-ICE Application library translates this table into an
 implementable message template. This is illustrated by the picture
 below. The message template resulting from the translation of this table
 is displayed with a blue background.
 
-<img src="./media/ffice_flight_cancellation_template.png" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/ffice_flight_cancellation_template.png" />
 
 *Figure 10: The FF-ICE Flight Cancellation Message Template*
 
@@ -133,7 +133,7 @@ class that generalizes the class to be restricted and then applying the
 &lt;&lt;XSDrestriction&gt;&gt; stereotype to the generalization
 connector, as shown in brown on the picture opposite.
 
-<img src="./media/example_xsd_complex_type_restrictions_1.png"/>
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/example_xsd_complex_type_restrictions_1.png"/>
 
 XML elements being irrelevant in the context of the message template are
 eliminated by removing them from the model, as shown in red on the
@@ -141,7 +141,7 @@ picture opposite. Elements being mandatory in the context of the message
 template have their cardinality set to (at least) 1 in the restriction,
 as shown in blue.
 
-<img src="./media/example_xsd_complex_type_restrictions_2.png"/>
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/example_xsd_complex_type_restrictions_2.png"/>
 
 In general, all optionality, cardinality, and pattern restrictions are
 implemented by applying the desired changes to the restricted class.
@@ -153,11 +153,11 @@ restricted class with “Ffice” plus an initialism of the message being
 modeled – hence **FficeFC** for the FF-ICE **<u>F</u>**light
 **<u>C</u>**ancellation Message.
 
-<img src="./media/example_xsd_complex_type_restrictions_3.png"/>
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/example_xsd_complex_type_restrictions_3.png"/>
 
 Restricted classes require the restricted versions of associated
 sub-classes. XSD complex type restrictions are therefore linked together
 to form an entire restricted message. This provides clear guidance on
 how the FF-ICE message template is constructed.
 
-<img src="./media/example_xsd_complex_type_restrictions_4.png"/>
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/example_xsd_complex_type_restrictions_4.png"/>
