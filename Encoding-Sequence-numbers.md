@@ -12,7 +12,7 @@ numbers taken as a whole should always be contiguous. If an element were
 removed from a sequence, the numbering in subsequent representations
 should be reset to reflect this, not maintained so that a gap is formed.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:filed>
