@@ -2,7 +2,7 @@
 
 `FIXM TYPE` [fb:SidStarReferenceType](https://www.fixm.aero/releases/FIXM-4.2.0/doc/schema_documentation/Fixm_SidStarReferenceType.html#Link1E)
 
-<img src="./media/SidStarReferenceType.png">
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/SidStarReferenceType.png">
 
 ***
 
