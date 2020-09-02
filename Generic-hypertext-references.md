@@ -11,7 +11,7 @@ document developed by the AIXM community.
 This hypertext reference may be used - or ignored - by the receiving
 system depending on its capabilities.
 
-`EXAMPLE`
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:*\[FIXMelement\]* href="urn:uuid:81e47548-9f00-4970-b641-8ff8f99098a5">
