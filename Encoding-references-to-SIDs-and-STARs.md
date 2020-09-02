@@ -11,7 +11,7 @@
 The minimum SID or STAR reference shall consist of the SID or STAR
 designator as published in the AIP.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:standardInstrumentDeparture>
@@ -29,7 +29,7 @@ designator as published in the AIP.
 Option 2 corresponds to Option 1 with an additional hypertext reference
 as described in chapter Generic hypertext references.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:standardInstrumentDeparture href="urn:uuid:...">
@@ -48,7 +48,7 @@ designator’, if provided, should be the designator obtained after
 applying the rules for shortening names specified by the ARINC 424
 specification, chapter 7.4. Example:
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fx:standardInstrumentDeparture>
