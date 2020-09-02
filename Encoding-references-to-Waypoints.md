@@ -2,7 +2,7 @@
 
 `FIXM TYPE` [fb:DesignatedPointType](https://www.fixm.aero/releases/FIXM-4.2.0/doc/schema_documentation/Fixm_DesignatedPointType.html#Link12)
 
-<img src="./media/DesignatedPointType.png">
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/DesignatedPointType.png">
 
 ***
 
