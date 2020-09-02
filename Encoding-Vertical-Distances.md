@@ -18,7 +18,7 @@ and heights, as defined by ICAO
 > **Ellipsoid height**. The height related to the reference ellipsoid, measured along the ellipsoidal outer normal through the point in question.
 
 
-<img src="./media/vertical_distances.png" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/vertical_distances.png" />
 
 Figure: Differences between Elevation, Altitude, Height and Ellipsoid height
 
@@ -29,7 +29,7 @@ level number or standard metric level (FIXM construct ‘FlightLevel’) and
 of ellipsoid heights & heights SFC expressed in feet or meter (FIXM
 construct ‘Height’ used in conjunction with a VerticalReference).
 
-<img src="./media/VerticalDistanceType.png" />
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/VerticalDistanceType.png" />
 
 These vertical distances are specialisations of the generic class
 Measure which serves as the parent class for all measure types including
