@@ -52,7 +52,7 @@ The type of network affects the format of the linkage information.
 
 -   When the network is AFTN, the linkage should be a valid AFTN address
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 The following example illustrates contact information formed of an email
 address and an Internet address expressed as a resolvable URL.
@@ -67,7 +67,7 @@ address and an Internet address expressed as a resolvable URL.
 </fb:onlineContact>
 ```
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 The following example illustrates contact information formed of an AFTN
 address. The example features the EUROCONTROL NM ‘AFTN address’ for
@@ -82,7 +82,7 @@ Flight Plan Message Submission to IFPS (FP1 - Brussels (Haren)).
 </fb:onlineContact>
 ```
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 The following example illustrates contact information formed of a SITA
 address. ‘SITA’ is not a value captured in FIXM enumeration
