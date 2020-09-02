@@ -11,7 +11,7 @@
 As a minimum, the coded designator of a navaid shall be provided, as
 published in the AIPs.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fb:navaid>
@@ -45,7 +45,7 @@ of the position information. The supplementary fields shall be used for
 disambiguation purposes only (i.e. plausibility checks based on position
 and navaid service type) in case of duplicate/triplicate/…
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fb:navaid>
@@ -66,7 +66,7 @@ and navaid service type) in case of duplicate/triplicate/…
 Option 3 corresponds to Option 1 with an additional hypertext reference
 as described in chapter Generic hypertext references.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fb:navaid href="urn:uuid:08a1bbd5-ea70-4fe3-836a-ea9686349495">
@@ -83,7 +83,7 @@ as described in chapter Generic hypertext references.
 Option 4 corresponds to the combination of Option 2 and Option 3. See
 explanations above.
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 ```xml
 <fb:navaid href="urn:uuid:08a1bbd5-ea70-4fe3-836a-ea9686349495">
