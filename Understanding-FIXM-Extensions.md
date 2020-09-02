@@ -39,12 +39,12 @@ extension mechanism.
 
 `HOW TO CHECK THIS` Checking that an extension satisfies this requirement cannot be automated and requires manual analysis of the extension content by the FIXM community. As a general principle, extensions to FIXM core that are proposed for online publication on the FIXM web site should be checked against this requirement.       |
 
-`EXAMPLE` <img src="./media/ok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/ok.png" width="20" height="20" />
 
 > TODO
 
 
-`EXAMPLE` <img src="./media/nok.png" style="width:0.25in;height:0.25in" />
+`EXAMPLE` <img src="https://github.com/hlepori/fixm_test/blob/master/media/nok.png" width="20" height="20" />
 
 
 <img src="media/wrong_extension_example.png" style="width:4.70091in;height:2.96439in" />
@@ -66,7 +66,7 @@ The FIXM extension mechanism distributes class-specific extension hooks
 throughout the model that implementers can leverage to define their
 specific data structures.
 
-<img src="./media/aircraftType_and_extension_hook.png"/>
+<img src="https://github.com/hlepori/fixm_test/blob/master/media/aircraftType_and_extension_hook.png"/>
 
 The key benefits of the approach are the following:
 
